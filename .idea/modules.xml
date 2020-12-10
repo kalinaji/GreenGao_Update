@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GreenGao_Update.iml" filepath="$PROJECT_DIR$/.idea/modules/GreenGao_Update.iml" group="GreenGao_Update" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="GreenGao_Update/app" />
+    </modules>
+  </component>
+</project>
